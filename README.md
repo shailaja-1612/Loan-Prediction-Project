@@ -16,6 +16,6 @@ Random Forest – Again, with the sparsity associated with the data, I thought t
 # Model Performance
 The Random Forest model far outperformed the other approaches on the test and validation sets.
 
-Random Forest : accuracy_score = 0.7950819672131147
-Logistic Regression: accuracy_score = 0.7886178861788617
-Decision Trees: accuracy_score = 0.6885245901639344
+*Random Forest : accuracy_score = 0.7950819672131147
+*Logistic Regression: accuracy_score = 0.7886178861788617
+*Decision Trees: accuracy_score = 0.6885245901639344
